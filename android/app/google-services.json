@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "566747768668",
+    "firebase_url": "https://analysis-f620d-default-rtdb.firebaseio.com",
+    "project_id": "analysis-f620d",
+    "storage_bucket": "analysis-f620d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566747768668:android:4d15df4c9dbc47def60399",
+        "android_client_info": {
+          "package_name": "com.goalsathi.goalsathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW9wxtgUXK5vo_QcDJdk-R4M3WzbTnzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
